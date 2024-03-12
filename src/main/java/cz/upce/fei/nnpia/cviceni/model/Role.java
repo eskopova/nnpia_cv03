@@ -1,4 +1,4 @@
-package cz.upce.fei.nnpia.cviceni;
+package cz.upce.fei.nnpia.cviceni.model;
 
 import jakarta.persistence.*;
 

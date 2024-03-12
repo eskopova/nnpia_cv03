@@ -1,5 +1,6 @@
-package cz.upce.fei.nnpia.cviceni;
+package cz.upce.fei.nnpia.cviceni.model;
 
+import cz.upce.fei.nnpia.cviceni.AppUser;
 import jakarta.persistence.*;
 
 import java.util.Date;
